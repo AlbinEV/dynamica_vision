@@ -1,1 +1,0 @@
-# dynamica_vision
